@@ -12,5 +12,5 @@ GAME RULES:
 
 -The first player to reach 100 points on GLOBAL score wins the game.
 
--This project was to further my skills with javascript and learn various concepts ranging from DOM manipulation, Event Handling, DRY  principle, and more.
+* This project was to further my skills with javascript and learn various concepts ranging from DOM manipulation, Event Handling, DRY  principle, and more. *
 
